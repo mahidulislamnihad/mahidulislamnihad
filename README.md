@@ -3,3 +3,4 @@ I build connected systems using ESP32, Raspberry Pi, MQTT, and real-time sensor 
 Skilled in C/C++, Python, FreeRTOS, and edge-to-cloud communication.
 I enjoy designing firmware, experimenting with IoT security, and creating electronics projects from concept to prototype.
 Currently exploring PCB design and IoT communication.
+![Profile Views](https://komarev.com/ghpvc/?username=mahidulislamnihad&style=for-the-badge)
