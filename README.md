@@ -20,6 +20,6 @@ I work with microcontrollers, sensors, and cloud connectivity to create reliable
 
 ## 📫 Connect With Me  
 Feel free to reach out or explore my repositories—always open to collaboration and learning!
-
+[LinkdIn](in/mahidulislamnihad)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mahidulislamnihad&style=for-the-badge)
